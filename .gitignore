@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+demo_django_blog/
 __pycache__/
 *.py[cod]
 *$py.class
